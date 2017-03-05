@@ -1,12 +1,15 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
+  "description": "portfolio",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,14 +17,10 @@
     "type": "git",
     "url": "git+https://github.com/YarmulaYuriy/portfolio.git"
   },
-  "author": "Yuriy Yarmula\u001b[A\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[CMy Home-work\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D",
+  "author": "Yuriy Yarmula",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/YarmulaYuriy/portfolio/issues"
   },
-  "homepage": "https://github.com/YarmulaYuriy/portfolio#readme",
-  "keywords": [
-    "\u001b[A\u001b[B"
-  ],
-  "description": ""
+  "homepage": "https://github.com/YarmulaYuriy/portfolio#readme"
 }
